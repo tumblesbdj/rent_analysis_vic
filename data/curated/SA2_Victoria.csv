@@ -1,0 +1,525 @@
+SA2_CODE_2021,SA2_NAME_2021,STATE_NAME_2021
+201011001,Alfredton,Victoria
+201011002,Ballarat,Victoria
+201011005,Buninyong,Victoria
+201011006,Delacombe,Victoria
+201011007,Smythes Creek,Victoria
+201011008,Wendouree - Miners Rest,Victoria
+201011481,Ballarat East - Warrenheip,Victoria
+201011482,Ballarat North - Invermay,Victoria
+201011483,Canadian - Mount Clear,Victoria
+201011484,Sebastopol - Redan,Victoria
+201021009,Bacchus Marsh Surrounds,Victoria
+201021010,Creswick - Clunes,Victoria
+201021011,Daylesford,Victoria
+201021012,Gordon (Vic.),Victoria
+201031013,Avoca,Victoria
+201031014,Beaufort,Victoria
+201031015,Golden Plains - North,Victoria
+201031016,Maryborough (Vic.),Victoria
+201031017,Maryborough Surrounds,Victoria
+202011018,Bendigo,Victoria
+202011019,California Gully - Eaglehawk,Victoria
+202011020,East Bendigo - Kennington,Victoria
+202011021,Flora Hill - Spring Gully,Victoria
+202011022,Kangaroo Flat - Golden Square,Victoria
+202011023,Maiden Gully,Victoria
+202011024,Strathfieldsaye,Victoria
+202011025,White Hills - Ascot,Victoria
+202021026,Bendigo Surrounds - South,Victoria
+202021027,Castlemaine,Victoria
+202021028,Castlemaine Surrounds,Victoria
+202021029,Heathcote,Victoria
+202021030,Kyneton,Victoria
+202021031,Woodend,Victoria
+202031032,Bendigo Surrounds - North,Victoria
+202031033,Loddon,Victoria
+203011034,Bannockburn,Victoria
+203011035,Golden Plains - South,Victoria
+203011036,Winchelsea,Victoria
+203021037,Belmont,Victoria
+203021039,Geelong,Victoria
+203021040,Geelong West - Hamlyn Heights,Victoria
+203021042,Highton,Victoria
+203021043,Lara,Victoria
+203021044,Leopold,Victoria
+203021045,Newcomb - Moolap,Victoria
+203021046,Newtown (Vic.),Victoria
+203021047,North Geelong - Bell Park,Victoria
+203021485,Charlemont,Victoria
+203021486,Corio - Lovely Banks,Victoria
+203021487,Grovedale - Mount Duneed,Victoria
+203021488,Norlane,Victoria
+203031048,Clifton Springs,Victoria
+203031049,Lorne - Anglesea,Victoria
+203031051,Portarlington,Victoria
+203031052,Point Lonsdale - Queenscliff,Victoria
+203031053,Torquay,Victoria
+203031489,Barwon Heads - Armstrong Creek,Victoria
+203031490,Ocean Grove,Victoria
+204011054,Alexandra,Victoria
+204011055,Euroa,Victoria
+204011056,Kilmore - Broadford,Victoria
+204011057,Mansfield (Vic.),Victoria
+204011058,Nagambie,Victoria
+204011059,Seymour,Victoria
+204011060,Seymour Surrounds,Victoria
+204011061,Upper Yarra Valley,Victoria
+204011062,Yea,Victoria
+204021063,Benalla,Victoria
+204021064,Benalla Surrounds,Victoria
+204021065,Rutherglen,Victoria
+204021066,Wangaratta,Victoria
+204021067,Wangaratta Surrounds,Victoria
+204031068,Beechworth,Victoria
+204031069,Bright - Mount Beauty,Victoria
+204031070,Chiltern - Indigo Valley,Victoria
+204031071,Myrtleford,Victoria
+204031072,Towong,Victoria
+204031073,West Wodonga,Victoria
+204031075,Yackandandah,Victoria
+204031491,Baranduda - Leneva,Victoria
+204031492,Wodonga,Victoria
+205011076,Drouin,Victoria
+205011077,Mount Baw Baw Region,Victoria
+205011078,Trafalgar (Vic.),Victoria
+205011079,Warragul,Victoria
+205021080,Alps - East,Victoria
+205021081,Bairnsdale,Victoria
+205021082,Bruthen - Omeo,Victoria
+205021083,Lake King,Victoria
+205021084,Lakes Entrance,Victoria
+205021085,Orbost,Victoria
+205021086,Paynesville,Victoria
+205031087,Foster,Victoria
+205031088,French Island,Victoria
+205031089,Korumburra,Victoria
+205031090,Leongatha,Victoria
+205031091,Phillip Island,Victoria
+205031092,Wilsons Promontory,Victoria
+205031093,Wonthaggi - Inverloch,Victoria
+205041094,Churchill,Victoria
+205041095,Moe - Newborough,Victoria
+205041096,Morwell,Victoria
+205041098,Yallourn North - Glengarry,Victoria
+205041493,Traralgon - East,Victoria
+205041494,Traralgon - West,Victoria
+205051099,Alps - West,Victoria
+205051100,Longford - Loch Sport,Victoria
+205051101,Maffra,Victoria
+205051102,Rosedale,Victoria
+205051103,Sale,Victoria
+205051104,Yarram,Victoria
+206011106,Brunswick East,Victoria
+206011107,Brunswick West,Victoria
+206011109,Pascoe Vale South,Victoria
+206011495,Brunswick - North,Victoria
+206011496,Brunswick - South,Victoria
+206011497,Coburg - East,Victoria
+206011498,Coburg - West,Victoria
+206021110,Alphington - Fairfield,Victoria
+206021112,Thornbury,Victoria
+206021499,Northcote - East,Victoria
+206021500,Northcote - West,Victoria
+206031113,Ascot Vale,Victoria
+206031115,Flemington,Victoria
+206031116,Moonee Ponds,Victoria
+206031501,Essendon (West) - Aberfeldie,Victoria
+206031502,Essendon - East,Victoria
+206041117,Carlton,Victoria
+206041118,Docklands,Victoria
+206041119,East Melbourne,Victoria
+206041120,Flemington Racecourse,Victoria
+206041121,Kensington (Vic.),Victoria
+206041124,Parkville,Victoria
+206041125,South Yarra - West,Victoria
+206041127,West Melbourne - Industrial,Victoria
+206041503,Melbourne CBD - East,Victoria
+206041504,Melbourne CBD - North,Victoria
+206041505,Melbourne CBD - West,Victoria
+206041506,North Melbourne,Victoria
+206041507,Royal Botanic Gardens Victoria,Victoria
+206041508,Southbank (West) - South Wharf,Victoria
+206041509,Southbank - East,Victoria
+206041510,West Melbourne - Residential,Victoria
+206051128,Albert Park,Victoria
+206051129,Elwood,Victoria
+206051130,Port Melbourne,Victoria
+206051134,St Kilda East,Victoria
+206051511,Port Melbourne Industrial,Victoria
+206051512,South Melbourne,Victoria
+206051513,St Kilda - Central,Victoria
+206051514,St Kilda - West,Victoria
+206061135,Armadale,Victoria
+206061136,Prahran - Windsor,Victoria
+206061138,Toorak,Victoria
+206061515,South Yarra - North,Victoria
+206061516,South Yarra - South,Victoria
+206071139,Abbotsford,Victoria
+206071140,Carlton North - Princes Hill,Victoria
+206071141,Collingwood,Victoria
+206071142,Fitzroy,Victoria
+206071143,Fitzroy North,Victoria
+206071145,Clifton Hill - Alphington,Victoria
+206071517,Richmond (South) - Cremorne,Victoria
+206071518,Richmond - North,Victoria
+207011146,Ashburton (Vic.),Victoria
+207011147,Balwyn,Victoria
+207011148,Balwyn North,Victoria
+207011149,Camberwell,Victoria
+207011150,Glen Iris - East,Victoria
+207011152,Hawthorn East,Victoria
+207011154,Kew East,Victoria
+207011155,Surrey Hills (West) - Canterbury,Victoria
+207011519,Hawthorn - North,Victoria
+207011520,Hawthorn - South,Victoria
+207011521,Kew - South,Victoria
+207011522,Kew - West,Victoria
+207021156,Bulleen,Victoria
+207021157,Doncaster,Victoria
+207021159,Templestowe,Victoria
+207021160,Templestowe Lower,Victoria
+207021424,Doncaster East - North,Victoria
+207021425,Doncaster East - South,Victoria
+207031161,Blackburn,Victoria
+207031162,Blackburn South,Victoria
+207031163,Box Hill,Victoria
+207031164,Box Hill North,Victoria
+207031165,Burwood (Vic.),Victoria
+207031166,Burwood East,Victoria
+207031167,Surrey Hills (East) - Mont Albert,Victoria
+208011168,Beaumaris,Victoria
+208011169,Brighton (Vic.),Victoria
+208011170,Brighton East,Victoria
+208011171,Highett (West) - Cheltenham,Victoria
+208011172,Hampton,Victoria
+208011173,Sandringham - Black Rock,Victoria
+208021174,Bentleigh - McKinnon,Victoria
+208021176,Carnegie,Victoria
+208021177,Caulfield - North,Victoria
+208021178,Caulfield - South,Victoria
+208021179,Elsternwick,Victoria
+208021180,Hughesdale,Victoria
+208021181,Murrumbeena,Victoria
+208021182,Ormond - Glen Huntly,Victoria
+208021426,Bentleigh East - North,Victoria
+208021427,Bentleigh East - South,Victoria
+208031183,Aspendale Gardens - Waterways,Victoria
+208031184,Braeside,Victoria
+208031185,Carrum - Patterson Lakes,Victoria
+208031186,Chelsea - Bonbeach,Victoria
+208031187,Chelsea Heights,Victoria
+208031188,Highett (East) - Cheltenham ,Victoria
+208031189,Edithvale - Aspendale,Victoria
+208031190,Mentone,Victoria
+208031191,Moorabbin - Heatherton,Victoria
+208031192,Moorabbin Airport,Victoria
+208031193,Mordialloc - Parkdale,Victoria
+208041194,Malvern - Glen Iris,Victoria
+208041195,Malvern East,Victoria
+209011196,Bundoora - East,Victoria
+209011197,Greensborough,Victoria
+209011198,Heidelberg - Rosanna,Victoria
+209011199,Heidelberg West,Victoria
+209011200,Ivanhoe,Victoria
+209011201,Ivanhoe East - Eaglemont,Victoria
+209011202,Montmorency - Briar Hill,Victoria
+209011203,Viewbank - Yallambie,Victoria
+209011204,Watsonia,Victoria
+209021205,Kingsbury,Victoria
+209021428,Preston - East,Victoria
+209021429,Preston - West,Victoria
+209021523,Reservoir - North East,Victoria
+209021524,Reservoir - North West,Victoria
+209021525,Reservoir - South East,Victoria
+209021526,Reservoir - South West,Victoria
+209031209,Eltham,Victoria
+209031210,Hurstbridge,Victoria
+209031211,Kinglake,Victoria
+209031212,Panton Hill - St Andrews,Victoria
+209031213,Plenty - Yarrambat,Victoria
+209031214,Research - North Warrandyte,Victoria
+209031215,Wattle Glen - Diamond Creek,Victoria
+209041216,Bundoora - North,Victoria
+209041217,Bundoora - West,Victoria
+209041220,Mill Park - North,Victoria
+209041221,Mill Park - South,Victoria
+209041223,Thomastown,Victoria
+209041224,Wallan,Victoria
+209041225,Whittlesea,Victoria
+209041431,Epping - East,Victoria
+209041432,Epping - South,Victoria
+209041433,Epping (Vic.) - West,Victoria
+209041435,South Morang - North,Victoria
+209041436,South Morang - South,Victoria
+209041437,Wollert,Victoria
+209041527,Doreen - North,Victoria
+209041528,Doreen - South,Victoria
+209041529,Lalor - East,Victoria
+209041530,Lalor - West,Victoria
+209041531,Mernda - North,Victoria
+209041532,Mernda - South,Victoria
+210011226,Airport West,Victoria
+210011227,Essendon Airport,Victoria
+210011228,Keilor,Victoria
+210011230,Niddrie - Essendon West,Victoria
+210011231,Strathmore,Victoria
+210011533,Avondale Heights,Victoria
+210011534,Keilor East,Victoria
+210021232,Gisborne,Victoria
+210021233,Macedon,Victoria
+210021234,Riddells Creek,Victoria
+210021235,Romsey,Victoria
+210031236,Coburg North,Victoria
+210031237,Fawkner,Victoria
+210031439,Gowanbrae,Victoria
+210031440,Hadfield,Victoria
+210031535,Glenroy - East,Victoria
+210031536,Glenroy - West,Victoria
+210031537,Oak Park,Victoria
+210031538,Pascoe Vale,Victoria
+210041240,Sunbury,Victoria
+210041539,Diggers Rest,Victoria
+210041540,Sunbury - South,Victoria
+210041541,Sunbury - West,Victoria
+210051242,Broadmeadows,Victoria
+210051243,Campbellfield - Coolaroo,Victoria
+210051245,Gladstone Park - Westmeadows,Victoria
+210051246,Greenvale - Bulla,Victoria
+210051247,Meadow Heights,Victoria
+210051248,Melbourne Airport,Victoria
+210051250,Tullamarine,Victoria
+210051441,Craigieburn - Central,Victoria
+210051442,Craigieburn - North,Victoria
+210051443,Craigieburn - South,Victoria
+210051445,Mickleham - Yuroke,Victoria
+210051542,Craigieburn - North West,Victoria
+210051543,Craigieburn - West,Victoria
+210051544,Roxburgh Park (South) - Somerton,Victoria
+210051545,Roxburgh Park - North,Victoria
+211011251,Bayswater,Victoria
+211011254,Knoxfield - Scoresby,Victoria
+211011255,Lysterfield,Victoria
+211011256,Rowville - Central,Victoria
+211011257,Rowville - North,Victoria
+211011258,Rowville - South,Victoria
+211011259,Wantirna,Victoria
+211011260,Wantirna South,Victoria
+211011446,Boronia,Victoria
+211011447,Ferntree Gully - North,Victoria
+211011448,Ferntree Gully (South) - Upper Ferntree Gully,Victoria
+211011449,The Basin,Victoria
+211021261,Donvale - Park Orchards,Victoria
+211021262,Warrandyte - Wonga Park,Victoria
+211031263,Bayswater North,Victoria
+211031265,Croydon Hills - Warranwood,Victoria
+211031266,Ringwood,Victoria
+211031267,Ringwood East,Victoria
+211031268,Ringwood North,Victoria
+211031450,Croydon - East,Victoria
+211031451,Croydon - West,Victoria
+211031452,Croydon South,Victoria
+211041269,Forest Hill,Victoria
+211041270,Mitcham (Vic.),Victoria
+211041271,Nunawading,Victoria
+211041272,Vermont,Victoria
+211041273,Vermont South,Victoria
+211051274,Belgrave - Selby,Victoria
+211051275,Chirnside Park,Victoria
+211051276,Healesville - Yarra Glen,Victoria
+211051277,Kilsyth,Victoria
+211051278,Lilydale - Coldstream,Victoria
+211051279,Monbulk - Silvan,Victoria
+211051280,Montrose,Victoria
+211051281,Mooroolbark,Victoria
+211051282,Mount Dandenong - Olinda,Victoria
+211051283,Mount Evelyn,Victoria
+211051284,Upwey - Tecoma,Victoria
+211051285,Wandin - Seville,Victoria
+211051286,Yarra Valley,Victoria
+212011289,Emerald - Cockatoo,Victoria
+212011546,Beaconsfield - Officer,Victoria
+212011547,Bunyip - Garfield,Victoria
+212011548,Koo Wee Rup,Victoria
+212011549,Pakenham - North East,Victoria
+212011550,Pakenham - North West,Victoria
+212011551,Pakenham - South East,Victoria
+212011552,Pakenham - South West,Victoria
+212021293,Berwick - North,Victoria
+212021295,Doveton,Victoria
+212021297,Hallam,Victoria
+212021299,Narre Warren North,Victoria
+212021453,Endeavour Hills - North,Victoria
+212021454,Endeavour Hills - South,Victoria
+212021455,Narre Warren - North East,Victoria
+212021456,Narre Warren - South West,Victoria
+212021553,Berwick - South East,Victoria
+212021554,Berwick - South West,Victoria
+212031300,Cranbourne,Victoria
+212031303,Cranbourne South,Victoria
+212031304,Cranbourne West,Victoria
+212031306,Lynbrook - Lyndhurst,Victoria
+212031308,Pearcedale - Tooradin,Victoria
+212031457,Narre Warren South - East,Victoria
+212031458,Narre Warren South - West,Victoria
+212031555,Clyde North - North,Victoria
+212031556,Clyde North - South,Victoria
+212031557,Cranbourne East - North,Victoria
+212031558,Cranbourne East - South,Victoria
+212031559,Cranbourne North - East,Victoria
+212031560,Cranbourne North - West,Victoria
+212031561,Hampton Park - East,Victoria
+212031562,Hampton Park - West,Victoria
+212041309,Clarinda - Oakleigh South,Victoria
+212041310,Clayton South,Victoria
+212041312,Dandenong North,Victoria
+212041313,Dingley Village,Victoria
+212041316,Noble Park North,Victoria
+212041317,Springvale,Victoria
+212041318,Springvale South,Victoria
+212041459,Noble Park - East,Victoria
+212041460,Noble Park - West,Victoria
+212041563,Dandenong - North,Victoria
+212041564,Dandenong - South,Victoria
+212041565,Keysborough - North,Victoria
+212041566,Keysborough - South,Victoria
+212051319,Ashwood - Chadstone,Victoria
+212051321,Glen Waverley - East,Victoria
+212051322,Glen Waverley - West,Victoria
+212051323,Mount Waverley - North,Victoria
+212051324,Mount Waverley - South,Victoria
+212051325,Mulgrave,Victoria
+212051326,Oakleigh - Huntingdale,Victoria
+212051327,Wheelers Hill,Victoria
+212051567,Clayton (North) - Notting Hill,Victoria
+212051568,Clayton - Central,Victoria
+213011328,Ardeer - Albion,Victoria
+213011329,Cairnlea,Victoria
+213011331,Delahey,Victoria
+213011332,Keilor Downs,Victoria
+213011333,Kings Park (Vic.),Victoria
+213011334,St Albans - North,Victoria
+213011335,St Albans - South,Victoria
+213011336,Sunshine,Victoria
+213011337,Sunshine North,Victoria
+213011338,Sunshine West,Victoria
+213011339,Sydenham,Victoria
+213011340,Taylors Lakes,Victoria
+213011569,Deer Park,Victoria
+213011570,Derrimut,Victoria
+213021341,Altona,Victoria
+213021342,Altona Meadows,Victoria
+213021343,Altona North,Victoria
+213021344,Newport,Victoria
+213021345,Seabrook,Victoria
+213021346,Williamstown,Victoria
+213031347,Braybrook,Victoria
+213031348,Footscray,Victoria
+213031349,Maribyrnong,Victoria
+213031350,Seddon - Kingsville,Victoria
+213031351,West Footscray - Tottenham,Victoria
+213031352,Yarraville,Victoria
+213041353,Bacchus Marsh,Victoria
+213041358,Melton West,Victoria
+213041359,Rockbank - Mount Cottrell,Victoria
+213041360,Taylors Hill,Victoria
+213041461,Burnside,Victoria
+213041462,Burnside Heights,Victoria
+213041463,Caroline Springs,Victoria
+213041571,Brookfield,Victoria
+213041572,Cobblebank - Strathtulloh,Victoria
+213041573,Eynesbury - Exford,Victoria
+213041574,Fraser Rise - Plumpton,Victoria
+213041575,Hillside,Victoria
+213041576,Kurunjang - Toolern Vale,Victoria
+213041577,Melton,Victoria
+213041578,Melton South - Weir Views,Victoria
+213051361,Hoppers Crossing - North,Victoria
+213051362,Hoppers Crossing - South,Victoria
+213051363,Laverton,Victoria
+213051368,Werribee - South,Victoria
+213051464,Point Cook - East,Victoria
+213051466,Point Cook - South,Victoria
+213051467,Werribee - East,Victoria
+213051468,Werribee - West,Victoria
+213051579,Manor Lakes - Quandong,Victoria
+213051580,Point Cook - North East,Victoria
+213051581,Point Cook - North West,Victoria
+213051582,Tarneit (West) - Mount Cottrell,Victoria
+213051583,Tarneit - Central,Victoria
+213051584,Tarneit - North,Victoria
+213051585,Tarneit - South,Victoria
+213051586,Truganina - North,Victoria
+213051587,Truganina - South East,Victoria
+213051588,Truganina - South West,Victoria
+213051589,Wyndham Vale - North,Victoria
+213051590,Wyndham Vale - South,Victoria
+214011370,Carrum Downs,Victoria
+214011371,Frankston,Victoria
+214011372,Frankston North,Victoria
+214011373,Frankston South,Victoria
+214011374,Langwarrin,Victoria
+214011375,Seaford (Vic.),Victoria
+214011376,Skye - Sandhurst,Victoria
+214021377,Dromana,Victoria
+214021378,Flinders,Victoria
+214021379,Hastings - Somers,Victoria
+214021381,Mount Eliza,Victoria
+214021382,Mount Martha,Victoria
+214021383,Point Nepean,Victoria
+214021384,Rosebud - McCrae,Victoria
+214021385,Somerville,Victoria
+214021591,Mornington - East,Victoria
+214021592,Mornington - West,Victoria
+215011386,Ararat,Victoria
+215011387,Ararat Surrounds,Victoria
+215011388,Horsham,Victoria
+215011389,Horsham Surrounds,Victoria
+215011390,Nhill Region,Victoria
+215011391,St Arnaud,Victoria
+215011392,Stawell,Victoria
+215011393,West Wimmera,Victoria
+215011394,Yarriambiack,Victoria
+215021395,Irymple,Victoria
+215021396,Merbein,Victoria
+215021398,Mildura Surrounds,Victoria
+215021399,Red Cliffs,Victoria
+215021469,Mildura - North,Victoria
+215021470,Mildura - South,Victoria
+215031400,Buloke,Victoria
+215031401,Gannawarra,Victoria
+215031402,Kerang,Victoria
+215031403,Robinvale,Victoria
+215031404,Swan Hill,Victoria
+215031405,Swan Hill Surrounds,Victoria
+216011406,Echuca,Victoria
+216011407,Kyabram,Victoria
+216011408,Lockington - Gunbower,Victoria
+216011409,Rochester,Victoria
+216011410,Rushworth,Victoria
+216021411,Cobram,Victoria
+216021412,Moira,Victoria
+216021413,Numurkah,Victoria
+216021414,Yarrawonga,Victoria
+216031415,Mooroopna,Victoria
+216031416,Shepparton - North,Victoria
+216031418,Shepparton Surrounds - East,Victoria
+216031419,Shepparton Surrounds - West,Victoria
+216031593,Kialla,Victoria
+216031594,Shepparton - South East,Victoria
+217011420,Glenelg (Vic.),Victoria
+217011421,Hamilton (Vic.),Victoria
+217011422,Portland,Victoria
+217011423,Southern Grampians,Victoria
+217031471,Camperdown,Victoria
+217031472,Colac,Victoria
+217031473,Colac Surrounds,Victoria
+217031474,Corangamite - North,Victoria
+217031475,Corangamite - South,Victoria
+217031476,Otway,Victoria
+217041477,Moyne - East,Victoria
+217041478,Moyne - West,Victoria
+217041479,Warrnambool - North,Victoria
+217041480,Warrnambool - South,Victoria
+297979799,Migratory - Offshore - Shipping (Vic.),Victoria
+299999499,No usual address (Vic.),Victoria
